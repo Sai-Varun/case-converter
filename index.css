@@ -1,0 +1,15 @@
+button {
+    font-size: 12px;
+    background-color: salmon;
+    padding: 5px;
+    margin: 5px;
+    border-radius: 5px;
+}
+
+.title {
+    font-size: 18px;
+}
+
+#flex-div {
+    display: flex;
+}
